@@ -1,0 +1,9 @@
+# PCD and BIN files
+pcd2bin/pcd/*
+pcd2bin/bin/*
+pcd2bin/build/*
+
+# Catkin stuff
+catkin_ws/build
+catkin_ws/devel
+catkin_ws/output
